@@ -5,7 +5,7 @@ import './card.styles.css';
 export const Card = props => (
   <div className="card-container ">
     <img
-      src={`https://robohash.org/${props.monster.id}?set=set2&size=200x200`}
+      src={`https://robohash.org/${props.monster.id}?set=set2&size=250x250`}
       alt="monster"
     />
     <h2>{props.monster.name}</h2>
