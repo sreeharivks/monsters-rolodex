@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+h1 {
+  font-family: Voltaire;
+  font-size: 90px;
+  color: #303952;
+  text-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
